@@ -18,6 +18,9 @@
     "react-dom": "19.1.0",
     "zod": "^4.1.11"
   },
+  "overrides": {
+    "lightningcss": "1.21.1"
+  },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
     "@tailwindcss/postcss": "^4",
