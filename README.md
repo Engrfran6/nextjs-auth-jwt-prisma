@@ -1,6 +1,7 @@
 # 🔐 Custom Authentication System in Next.js (with JWT, Prisma & MongoDB)
 
-Authentication is a critical part of every secure app. In this project, I implemented a full **auth system in Next.js (App Router)** using:
+Authentication is a critical part of every secure app. In this project, I implemented a full **auth
+system in Next.js (App Router)** using:
 
 - ✅ Secure password hashing with `bcrypt`
 - ✅ Schema validation using `Zod`
@@ -159,7 +160,8 @@ Built with ❤️ by Francis Okpoluaefe
 
 ## 📌 Notes
 
-This project uses no external auth libraries like NextAuth or Clerk — it is a 100% custom authentication flow.
+This project uses no external auth libraries like NextAuth or Clerk — it is a 100% custom
+authentication flow.
 
 You can extend it with:
 
@@ -167,4 +169,5 @@ You can extend it with:
 - ✅ Forgot/reset password functionality
 - ✅ Role-based access control (RBAC)
 - ✅ OAuth or magic link authentication
+
 # nextjs-auth-jwt-prisma
